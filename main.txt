@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 2</title>
+</head>
+<body>
+ <p>Nama : Arifal Muhamad Iqbal</p>
+ <p>NIM : 2202397</p>
+ <p>Kelas : 3A PSTI</p>  
+ <p>Mata Kuliah : Pemprograman Internet</p> 
+
+ <p><strong>Git Topic</strong></p>
+
+ <p> GIT adalah sebuah version control system terbuka yang berfungsi sebagai control system untuk menjalankan proyek pengembangan software. Tujuan penggunaan GIT sendiri yaitu untuk mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+
+</p><strong>Beberapa perintah dasar dalam GIT</strong><p>
+
+<p>- Git-Init: Digunakan untuk membuat repositori Git baru di direktori lokal. </p>
+<p>- Git Status: Digunakan untuk melihat status dari repositori lokal. </p>
+<p>- Git add: Digunakan untuk menambahkan perubahan atau berkas ke area staging (staging area). </p>
+<p>- Git commit: Digunakan untuk menyimpan perubahan yang telah dilakukan. </p>
+<p>- Git push: Digunakan untuk mengirim perubahan yang ada di repositori lokal ke repositori remote. </p>   
+<p>- Git Checkout: Digunakan untuk beralih (checkout) antara branch yang berbeda dalam repositori. </p>   
+<p>- Git Merge: Digunakan untuk menggabungkan perubahan dari satu branch ke branch lainnya. </p>   
+<p>- Git Clone: Digunakan untuk dapat membuat salinan repository lokal. </p>
+<p>- Git log: Digunakan untuk melihat riwayat komit dalam repositori GIT. </p>
+<p>- Git pull: Digunakan untuk mengambil perubahan terbaru dari repositori remot ke repositori lokal. </p>
+</p>
+ </p>
+</body>
+</html>
